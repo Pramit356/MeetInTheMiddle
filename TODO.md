@@ -12,4 +12,3 @@
 - [ ] Draggable Markers
 - [ ] More informative Landing page
 - [ ] Incorporate third party services ( `reservations` maybe )
-- [ ] Map snapshot sharing

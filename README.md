@@ -30,4 +30,6 @@
 - Now all your friends share same view via [interweb](https://www.pubnub.com/) 🎉
 - Find places to meet 😛
 
+<hr>
+
 > Exhaustive List of TODO [here](./TODO.md)
